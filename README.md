@@ -1,13 +1,13 @@
 # vagrant-skp-single
 
-SKP를 배포 테스트를 위한 Single Vagrant Repository
+SKP 배포 테스트를 위한 Single Vagrant Repository
 
 참조: Vritualbox 및 Vagrant 소개 및 설치 
 
 https://comafire.github.io/dataplatform/vagrant_virtualbox.html#
 
 SKP를 위한 기본 계정 생성 및 SSH Authorized Key 등록을 위한 설정
- 
+
 ssh key 생성
 
 ```bash
